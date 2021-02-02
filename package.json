@@ -1,0 +1,11 @@
+{
+  "name": "pdftojpeg",
+  "version": "1.0.0",
+  "description": "Conversor de archivos pdf a jpeg ideal cuando se tienen muchos archivos pdf",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gabriel Ramirez",
+  "license": "ISC"
+}
